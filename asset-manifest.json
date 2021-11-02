@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arizk76.github.io/csb-t6ze4/static/css/main.9e27042d.chunk.css",
+    "main.js": "https://arizk76.github.io/csb-t6ze4/static/js/main.144f472a.chunk.js",
+    "main.js.map": "https://arizk76.github.io/csb-t6ze4/static/js/main.144f472a.chunk.js.map",
+    "runtime-main.js": "https://arizk76.github.io/csb-t6ze4/static/js/runtime-main.7745f171.js",
+    "runtime-main.js.map": "https://arizk76.github.io/csb-t6ze4/static/js/runtime-main.7745f171.js.map",
+    "static/js/2.2d0a36a8.chunk.js": "https://arizk76.github.io/csb-t6ze4/static/js/2.2d0a36a8.chunk.js",
+    "static/js/2.2d0a36a8.chunk.js.map": "https://arizk76.github.io/csb-t6ze4/static/js/2.2d0a36a8.chunk.js.map",
+    "index.html": "https://arizk76.github.io/csb-t6ze4/index.html",
+    "static/css/main.9e27042d.chunk.css.map": "https://arizk76.github.io/csb-t6ze4/static/css/main.9e27042d.chunk.css.map",
+    "static/js/2.2d0a36a8.chunk.js.LICENSE.txt": "https://arizk76.github.io/csb-t6ze4/static/js/2.2d0a36a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7745f171.js",
+    "static/js/2.2d0a36a8.chunk.js",
+    "static/css/main.9e27042d.chunk.css",
+    "static/js/main.144f472a.chunk.js"
+  ]
+}
